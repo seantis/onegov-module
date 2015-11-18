@@ -38,11 +38,12 @@ Coverage
   :target: https://coveralls.io/r/OneGov/{{ cookiecutter.package_name }}?branch=master
   :alt: Project Coverage
 
-Latests PyPI Release
---------------------
-.. image:: https://pypip.in/v/{{ cookiecutter.package_name }}/badge.png
-  :target: https://crate.io/packages/{{ cookiecutter.package_name }}
-  :alt: Latest PyPI Release
+Latest PyPI Release
+-------------------
+
+.. image:: https://badge.fury.io/py/{{ cookiecutter.package_name }}.svg
+    :target: https://badge.fury.io/py/{{ cookiecutter.package_name }}
+    :alt: Latest PyPI Release
 
 License
 -------
