@@ -1,5 +1,8 @@
 cache: pip
 
+addons:
+    postgresql: "10"
+
 matrix:
   include:
     - language: python
